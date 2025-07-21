@@ -1,0 +1,51 @@
+{
+	"main": {
+		"hero": {
+			"buildYour": "Build your",
+			"familyTree": "family tree",
+			"description": "A unique visual constructor of family connections. Easy. Beautiful. Reliable.",
+			"create": "Create Tree",
+			"login": "Sign In"
+		},
+		"features": {
+			"visual": "Visual Tree Representation",
+			"visualDesc": "An interactive tree with zoom and pan capabilities.",
+			"try": "Try it",
+
+			"collab": "Collaboration",
+			"collabDesc": "Invite relatives to your project and build the tree together.",
+			"more": "Learn More"
+		},
+		"tree": {
+			"treeExample": "Example Tree",
+			"grandfather": "Grandfather",
+			"grandmother": "Grandmother",
+			"father": "Father",
+			"you": "You",
+			"brother": "Brother"
+		},
+		"treeAnimation": {
+			"title": "Growing Family Tree",
+			"description": "We visualize your tree as a real structure — ancestors above, descendants below. Flexible layout with smooth animation."
+		},
+		"ads": {
+			"adTitle": "Place Your Ad Here",
+			"adDesc": "Want your service seen by thousands of users who value family heritage?",
+			"bePartner": "Become a Partner",
+
+			"archiveTitle": "Family Archive",
+			"archiveDesc": "Offer archival services, document scanning, or ancestor research — we promote only helpful tools.",
+			"offer": "Submit a Proposal"
+		}
+	},
+
+	"languageSwitcher": {
+		"label": "Language"
+	},
+	"footer": {
+		"rights": "All rights reserved.",
+		"contacts": "Contact",
+		"help": "Help",
+		"privacy": "Privacy Policy"
+	}
+}
